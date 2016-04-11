@@ -2,7 +2,7 @@
 Mirror of circos tutorial.  http://circos.ca/documentation/tutorials
 
 == QUICK START ==
-* download release .zip file
+* download circos.ca.zip file
 * unzip it
 * python make_offline.py 
 * visit http://localhost:8000 
